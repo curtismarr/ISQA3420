@@ -18,11 +18,11 @@ Preconditions:
     The information for the Policy has been approved to be the standard of the Policy.
 
 Main Success Scenario:
-    The Manager inputed Software Package which is sent to the Scan DB, and has accurate information returned regarding
-    the specified Software Package. 
+    The Manager is able to successfully add a new Policy and information for the Policy to the Policy Data base and the information is
+    saved properly.
     
 Failed End Conditions:
-    The Manager is not able to connect to the Scan DB or is receives inaccurate information.
+    The Manager is not able to access the Policy Data base, or the information does not get saved properly.
 
 Trigger:
-    The manager inputs the name of a Software Package.
+    The manager inputs the name and information of a new Policy.
