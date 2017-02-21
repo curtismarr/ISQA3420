@@ -1,21 +1,21 @@
 Curtis Marr - Data Flow Diagram Dictionary
 
 Entities:
-Developer - Person who is able to upload a software package to have the License and Vulvernabilities scanned, then have the
+Developer - Person who is able to upload a software package to have the license and vulvernabilities scanned, then have the
   results returns and put into a database.
   
-Manager - Person who is able to see the software package database, as well as Create, Edit, and Apply policies.
+Manager - Person who is able to see the software package database, as well as create, edit, and apply policies.
 
 
 Processes:
-Verifier - Takes in a software package, confirms it is a software package, then sends it out for a scan of the Licenses and
-  Vulnerabilities. When the information is returned, sends the results back to the Developer and to the Software Package
-  Results Database.
+Verifier - Takes in a software package, confirms it is a software package, then sends it out for a scan of the licenses and
+  vulnerabilities. When the information is returned, sends the results back to the Developer and to the software package
+  results database.
 
-License Scanner - Gets sent a software package, which it scans for what Licenses are applied to it. Returns the License results.
+License Scanner - Gets sent a software package, which it scans for what licenses are applied to it. Returns the license results.
 
-NIST Vulnerability DB - External Database not controlled by the user. Lists all known Vulnerabilities published for a given
-  Software Package.
+NIST Vulnerability DB - External database not controlled by the user. Lists all known vulnerabilities published for a given
+  software package.
 
 Software Package Results DB - Database created for the purpose of listing the results found for all Software Packages uploaded by
   Developers.
