@@ -15,7 +15,7 @@ StakeHolders:
     Manager - Look at specific Packages and determine if they can be used.
 
 Preconditions:
-    The Information for the the Software Package must actually contain files for a Software Package.
+    The Developer must send a 
 
 Main Success Scenario:
     The Developer successfully submits the Software Package and gets accurate information back, as well as having the information added 
