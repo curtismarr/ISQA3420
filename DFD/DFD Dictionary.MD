@@ -17,26 +17,26 @@ License Scanner - Gets sent a software package, which it scans for what licenses
 NIST Vulnerability DB - External database not controlled by the user. Lists all known vulnerabilities published for a given
   software package.
 
-Software Package Results DB - Database created for the purpose of listing the results found for all Software Packages uploaded by
+Software Package Results DB - Database created for the purpose of listing the results found for all software packages uploaded by
   Developers.
   
 Policy Data Base - Keeps record of all policies and the details of each.
   
-Get License & Vulnerability Info - With an inputed Package name, searches the Software Package Results DB for the Package. If results
+Get License & Vulnerability Info - With an inputed package name, searches the software package Results DB for the package. If results
     are found, returns the details about it.
     
-Apply Policy - Given a Package name, will send it to the Policy Data Base to check against any current policies, then returns results.
+Apply Policy - Given a package name, will send it to the policy database to check against any current policies, then returns results.
   
-Create/Edit Policy - Given a policy name, it will check if it is currently in the Policy Data Base. If it is, then it will update that
+Create/Edit Policy - Given a policy name, it will check if it is currently in the policy database. If it is, then it will update that
     policy with the new information provided, otherwise it creates a new policy with the information provided.
     
 
 Data Flows:
-Software Package - The Software Package that will be scanned.
+Software Package - The software package that will be scanned.
 
-License Scan Results - A list of what licenses apply to a Software Package.
+License Scan Results - A list of what licenses apply to a software package.
 
-Package Name - The name of a Software Package that will be searched against the NIST Vulnerability DB.
+Package Name - The name of a software package that will be searched against the NIST vulnerability DB.
 
 Vulnerability Scan Results - A list of what Vulernabilities apply to a Software Package.
 
