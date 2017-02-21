@@ -38,13 +38,13 @@ License Scan Results - A list of what licenses apply to a software package.
 
 Package Name - The name of a software package that will be searched against the NIST vulnerability DB.
 
-Vulnerability Scan Results - A list of what Vulernabilities apply to a Software Package.
+Vulnerability Scan Results - A list of what vulernabilities apply to a software package.
 
-Package Info - Information of a specific package that would like to be searched if it is in the Software Package Results DB.
+Package Info - Information of a specific package that would like to be searched if it is in the software package results DB.
 
-Policy Name - The name and information for a policy to be added/Updated in the Policy Data Base.
+Policy Name - The name and information for a policy to be added/Updated in the policy database.
 
 Policy Info - Information applying to a given policy.
 
-Package Policy - List of Policies that apply to a specified Software Package.
+Package Policy - List of policies that apply to a specified software package.
  
