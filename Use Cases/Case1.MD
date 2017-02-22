@@ -3,7 +3,7 @@ Curtis Marr - Use Case 1
 Title:
     Developer Uploading a Software Package
 
-Primary Actor: <br/>
+<bold> Primary Actor: </bold> <br/>
     Developer
 
 Goal in Context: <br/>
