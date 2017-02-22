@@ -1,6 +1,6 @@
 Curtis Marr - Use Case 1
 
-<u>Title:</u> 
+<underline>Title:</underline> 
     Developer Uploading a Software Package
 
 Primary Actor: 
