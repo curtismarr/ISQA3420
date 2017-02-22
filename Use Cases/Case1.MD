@@ -7,8 +7,8 @@ Curtis Marr - Use Case 1
     Developer
 
 <h5>Goal in Context: </h5> 
-    The Developer is able to submit a software package and have it get vulnerability and license information returned.
-  and set to the DB.
+    The Developer is able to submit a software package and have it get vulnerability and license information returned 
+    and set to the DB.
 
 <h5>StakeHolders: </h5> 
     - Developer: To send the needed information to determine if the package can be used.
