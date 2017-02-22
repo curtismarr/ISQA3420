@@ -1,7 +1,7 @@
 Curtis Marr - Data Flow Diagram Dictionary
 
 <h5>Entities:</h5>
-Developer - Person who is able to upload a software package to have the license and vulvernabilities scanned, then have the
+  Developer - Person who is able to upload a software package to have the license and vulvernabilities scanned, then have the
   results returns and put into a database.
   
 Manager - Person who is able to see the software package database, as well as create, edit, and apply policies.
