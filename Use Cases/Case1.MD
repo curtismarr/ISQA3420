@@ -26,3 +26,4 @@ Failed End Conditions:
 
 Trigger:
     The Developer uploads a Software Package to be scanned.
+ 
