@@ -19,8 +19,8 @@ Curtis Marr - Use Case 2
     The inputed package name is in the scan DB and there is information about it.
 
 <h5>Main Success Scenario:</h5> 
-    The Manager's inputed software package which is sent to the scan DB, and has accurate information returned regarding
-    the specified software package. 
+    The Manager's inputed software package which is sent to the scan DB, and has accurate information returned
+    regarding the specified software package. 
     
 <h5>Failed End Conditions:</h5> 
     The Manager is not able to connect to the scan DB or is receives inaccurate information.
