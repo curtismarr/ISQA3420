@@ -9,9 +9,9 @@ Primary Actor:
 Goal in Context: 
     The manager is able to access the scan DB and receive license and vulnerability information of a given software package.
 
-StakeHolders: 
-    Developer - To find out if the Developer's software packages are able to be used.
-    Manager - Look at specific packages and determine if they can be used.
+StakeHolders: <br/>
+    - Developer: To find out if the Developer's software packages are able to be used.
+     -Manager: Look at specific packages and determine if they can be used.
     
 
 Preconditions:
