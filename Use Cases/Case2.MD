@@ -1,6 +1,6 @@
 Curtis Marr - Use Case 2
 
-Title: 
+<h4>Title:</h4> 
     Manager Determining Scan Information
 
 Primary Actor: 
