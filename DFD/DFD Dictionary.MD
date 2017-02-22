@@ -1,13 +1,13 @@
 Curtis Marr - Data Flow Diagram Dictionary
 
-Entities:
+<h5>Entities:</h5>
 Developer - Person who is able to upload a software package to have the license and vulvernabilities scanned, then have the
   results returns and put into a database.
   
 Manager - Person who is able to see the software package database, as well as create, edit, and apply policies.
 
 
-Processes:
+<h5>Processes:</h5>
 Verifier - Takes in a software package, confirms it is a software package, then sends it out for a scan of the licenses and
   vulnerabilities. When the information is returned, sends the results back to the Developer and to the software package
   results database.
@@ -31,7 +31,7 @@ Create/Edit Policy - Given a policy name, it will check if it is currently in th
     policy with the new information provided, otherwise it creates a new policy with the information provided.
     
 
-Data Flows:
+<h5>Data Flows:</h5>
 Software Package - The software package that will be scanned.
 
 License Scan Results - A list of what licenses apply to a software package.
