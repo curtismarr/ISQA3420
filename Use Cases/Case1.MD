@@ -3,10 +3,10 @@ Curtis Marr - Use Case 1
 Title:
     Developer Uploading a Software Package
 
-Primary Actor: 
+Primary Actor: <br/>
     Developer
 
-Goal in Context: 
+Goal in Context: <br/>
     The Developer is able to submit a software package and have it get vulnerability and license information returned
   and set to the DB.
 
