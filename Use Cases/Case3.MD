@@ -19,8 +19,8 @@ Curtis Marr - Use Case 3
     The information for the policy has been approved to be the standard of the policy.
 
 <h5>Main Success Scenario:</h5>
-    The Manager is able to successfully add a new policy and information for the policy to the policy data base and the 
-    information is saved properly.
+    The Manager is able to successfully add a new policy and information for the policy to the policy data base and
+    the information is saved properly.
     
 <h5>Failed End Conditions:</h5>
     The Manager is not able to access the policy data base, or the information does not get saved properly.
