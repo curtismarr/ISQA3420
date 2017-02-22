@@ -7,7 +7,8 @@ Curtis Marr - Use Case 2
     Manager
 
 <h5>Goal in Context: </h5> 
-    The manager is able to access the scan DB and receive license <br/> and vulnerability information of a given software package.
+    The manager is able to access the scan DB and receive license 
+    and vulnerability information of a given software package.
 
 <h5>StakeHolders:</h5> 
     - Developer: To find out if the Developer's software packages are able to be used.
