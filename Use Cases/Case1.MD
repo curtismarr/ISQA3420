@@ -1,27 +1,27 @@
 Curtis Marr - Use Case 1
 
-Title:<br/>
+Title:
     Developer Uploading a Software Package
 
-Primary Actor:<br/>
+Primary Actor: 
     Developer
 
-Goal in Context: <br/>
+Goal in Context: 
     The Developer is able to submit a software package and have it get vulnerability and license information returned
   and set to the DB.
 
 StakeHolders: <br/>
-    Developer - To send the needed information to determine if the package can be used.<br/>
-    Manager - Look at specific packages and determine if they can be used.
+    - Developer: To send the needed information to determine if the package can be used.<br/>
+    - Manager: Look at specific packages and determine if they can be used.
 
-Preconditions:<br/>
+Preconditions:
     The Developer must send a software package that can be scanned for licenses and vulnerabilities.
 
-Main Success Scenario:<br/>
+Main Success Scenario:
     The Developer successfully submits the software package and gets accurate information back, as well as having the information added 
     to the DB properly.
 
-Failed End Conditions:<br/>
+Failed End Conditions:
     The Developer does not successfully submit the software Package, or the returned information is inaccurate.
 
 Trigger:<br/>
