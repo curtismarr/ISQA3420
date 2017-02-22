@@ -35,11 +35,11 @@ Curtis Marr - Data Flow Diagram Dictionary
     
 
 <h5>Data Flows:</h5>
-Software Package - The software package that will be scanned.
-
-License Scan Results - A list of what licenses apply to a software package.
-
-Package Name - The name of a software package that will be searched against the NIST vulnerability DB.
+        Software Package - The software package that will be scanned.
+        
+        License Scan Results - A list of what licenses apply to a software package.
+        
+        Package Name - The name of a software package that will be searched against the NIST vulnerability DB.
 
 Vulnerability Scan Results - A list of what vulernabilities apply to a software package.
 
