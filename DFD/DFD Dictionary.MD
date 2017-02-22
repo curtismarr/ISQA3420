@@ -8,13 +8,15 @@ Curtis Marr - Data Flow Diagram Dictionary
 
 
 <h5>Processes:</h5>
-        Verifier - Takes in a software package, confirms it is a software package, then sends it out for a scan of the licenses and             vulnerabilities. When the information is returned, sends the results back to the Developer and to the software package
-        results database.
+        Verifier - Takes in a software package, confirms it is a software package, then sends it out for a scan of the
+        licenses and vulnerabilities. When the information is returned, sends the results back to the Developer and to
+        the software package results database.
         
-        License Scanner - Gets sent a software package, which it scans for what licenses are applied to it. Returns the license results.
+        License Scanner - Gets sent a software package, which it scans for what licenses are applied to it. Returns 
+        the license results.
         
-        NIST Vulnerability DB - External database not controlled by the user. Lists all known vulnerabilities published for a given
-        software package.
+        NIST Vulnerability DB - External database not controlled by the user. Lists all known vulnerabilities published 
+        for a given software package.
         
         Software Package Results DB - Database created for the purpose of listing the results found for all software 
         packages uploaded by Developers.
