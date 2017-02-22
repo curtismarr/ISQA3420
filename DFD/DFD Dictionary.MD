@@ -43,7 +43,8 @@ Curtis Marr - Data Flow Diagram Dictionary
         
         Vulnerability Scan Results - A list of what vulernabilities apply to a software package.
         
-        Package Info - Information of a specific package that would like to be searched if it is in the software package results DB.
+        Package Info - Information of a specific package that would like to be searched if it is in the software
+        package results DB.
         
         Policy Name - The name and information for a policy to be added/Updated in the policy database.
         
